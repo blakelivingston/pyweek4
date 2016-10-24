@@ -4,7 +4,7 @@ Publishing this project to GitHub for posterity.
 
 Entry in PyWeek #4  <http://www.pyweek.org/4/> April, 2007  
 Team: Blancmange  
-Members: Blake Livingston, Donal Heidenblad
+Members: Blake Livingston, Donal Heidenblad  
 Special Thanks: J Thompson for music and sound FX!
 
 Dependencies
